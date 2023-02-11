@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e471c5fc-18f5-4896-8c8e-46bed2e405ea" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2L3edOWTYOORJ7byAKsveRFuTt2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/home work/nop-commercr-demo/src/main/java/com/nopcommercr-demo&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\home work\nop-commercr-demo\src\main\java\com\nopcommercr-demo" />
+      <recent name="C:\home work\nop-commercr-demo\src\test\java\com\nopcommercr-demo" />
+      <recent name="C:\home work\nop-commercr-demo\src\test\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.LoginPageTest.verifyThatUserShouldLogInSuccessFullyWithValidCredentials">
+    <configuration name="ComputerPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="nop-commercr-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nopcommerce.demo.testsuites.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nopcommerce.demo.testsuites" />
+      <option name="MAIN_CLASS_NAME" value="com.nopcommerce.demo.testsuites.ComputerPageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComputerPageTest.verifyThatUserShouldBuildYouOwnComputerAndAddThemToCartSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="nop-commercr-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nopcommerce.demo.testsuites.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nopcommerce.demo.testsuites" />
+      <option name="MAIN_CLASS_NAME" value="com.nopcommerce.demo.testsuites.ComputerPageTest" />
+      <option name="METHOD_NAME" value="verifyThatUserShouldBuildYouOwnComputerAndAddThemToCartSuccessfully" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="nop-commercr-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nopcommerce.demo.testsuites.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nopcommerce.demo.testsuites" />
+      <option name="MAIN_CLASS_NAME" value="com.nopcommerce.demo.testsuites.LoginPageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginPageTest.verifyThatUserShouldLogInSuccessFullyWithValidCredentials" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="nop-commercr-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nopcommerce.demo.testsuites.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nopcommerce.demo.testsuites" />
+      <option name="MAIN_CLASS_NAME" value="com.nopcommerce.demo.testsuites.LoginPageTest" />
+      <option name="METHOD_NAME" value="verifyThatUserShouldLogInSuccessFullyWithValidCredentials" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegisterPageTest.verifyUserShouldNavigateToRegisterPageSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="nop-commercr-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nopcommerce.demo.testsuites.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nopcommerce.demo.testsuites" />
+      <option name="MAIN_CLASS_NAME" value="com.nopcommerce.demo.testsuites.RegisterPageTest" />
+      <option name="METHOD_NAME" value="verifyUserShouldNavigateToRegisterPageSuccessfully" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.LoginPageTest.verifyThatUserShouldLogInSuccessFullyWithValidCredentials" />
+        <item itemvalue="TestNG.RegisterPageTest.verifyUserShouldNavigateToRegisterPageSuccessfully" />
+        <item itemvalue="TestNG.LoginPageTest" />
+        <item itemvalue="TestNG.ComputerPageTest" />
+        <item itemvalue="TestNG.ComputerPageTest.verifyThatUserShouldBuildYouOwnComputerAndAddThemToCartSuccessfully" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e471c5fc-18f5-4896-8c8e-46bed2e405ea" name="Changes" comment="" />
+      <created>1675104281544</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675104281544</updated>
+    </task>
+    <servers />
+  </component>
+</project>
